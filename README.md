@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=Hi+There+👋">
 
 <!--
 **Dilum125/Dilum125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 #**Note :** <code>Readme හද හද ඉන්න කම්මැලි උත්තෝ..🥵 ඒ හින්ද ඔහොම්ම හැරිල පලයම් 😂😗❤️‍🩹</code>
 
+**<a href="https://t.me/About_xyz">About Me<a/>**
