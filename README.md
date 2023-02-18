@@ -46,6 +46,8 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 ![Metrics](https://metrics.lecoq.io/Dilum125?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
 
+![Metrics](https://metrics.lecoq.io/Dilum125?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
+
 ## Join with Us ☘
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/team_mars_11)
