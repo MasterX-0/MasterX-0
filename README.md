@@ -26,7 +26,7 @@ NɪᴄNᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
 BɪʀTʜᴅᴀᴛᴇ : xxxx/01/09<br>
 Cᴏᴜɴᴛʀʏ : Sʀɪ Lᴀɴᴋᴀ 🇱🇰<br>
 HᴏᴍᴇTᴏᴡɴ : ... 👾🏕<br>
-Rᴇʟᴀᴛɪᴏɴsʜɪᴘ : <a href="tg://settings">With You</a> 🌿<br>
+Rᴇʟᴀᴛɪᴏɴsʜɪᴘ : With You 😁🌿<br>
 Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
