@@ -31,7 +31,7 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
 
-- 🔭 I’m currently working on MARS-11ᵀᴹ 🇱🇰 
+- 🔭 I’m currently working on <a href="https://t.me/team_mars_11">MARS-11ᵀᴹ 🇱🇰 </a>
 - 🌱 I’m currently learning Linux , Python , Shell , Java , PHP , HTML , CSS & etc.. 
 - 💬 Ask me about anything... I'm happy to help. ❤️‍🩹
 - 📫 How to reach me: <a href="https://t.me/MasterX_0_Bot">CLICK HERE</a>
