@@ -63,3 +63,4 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=telegram)](https://t.me/MasterX_0_Bot)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-NUMBER-yello?style=for-the-badge&logo=whatsapp)](https://wa.me/+15168644638)
+[![Gmail](https://img.shields.io/badge/GMAIL-ADDRESS-pink?style=for-the-badge&logo=gmail)](mailto:)
