@@ -38,6 +38,8 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 ## My Github Stats 📊
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilum125&hide_progress=true)](https://github.com/Dilum125)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilum125&show_icons=true&theme=tokyonight" alt="MasterX's Github Stats"></img>
 </p>
