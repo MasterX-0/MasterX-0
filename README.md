@@ -14,7 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Dilum125"><img src="https://graph.org/file/8e9bc6647a57eeb73a7db.jpg"></a>
+<a href="https://github.com/Dilum125"><img src="https://graph.org/file/8e9bc6647a57eeb73a7db.jpg"></a><br>
+
+## About Me ❤️
+
+<p align="center">
+
+Nᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
+Aɢᴇ : ..... 🌸<br>
+NɪᴄNᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
+BɪʀTʜᴅᴀᴛᴇ : xxxx/01/09<br>
+Cᴏᴜɴᴛʀʏ : Sʀɪ Lᴀɴᴋᴀ 🇱🇰<br>
+HᴏᴍᴇTᴏᴡɴ : ... 👾🏕<br>
+Rᴇʟᴀᴛɪᴏɴsʜɪᴘ : <a href="tg://settings">With You</a> 🌿<br>
+Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
+
+</p>
 
 - 🔭 I’m currently working on MARS-11ᵀᴹ 🇱🇰 
 - 🌱 I’m currently learning Linux , Python , Shell , Java , PHP , HTML , CSS & etc.. 
