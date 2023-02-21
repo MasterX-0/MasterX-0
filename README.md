@@ -42,7 +42,7 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilum125&hide_progress=true)](https://github.com/Dilum125)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilum125&layout=compact)](https://github.com/Dilum125)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilum125&theme=black-ice)](https://github.com/Dilum125)
 
