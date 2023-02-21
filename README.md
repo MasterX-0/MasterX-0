@@ -54,12 +54,12 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
 
-## Join with Us ☘
+## Join with Us 🌿
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/team_mars_11)
 [![Telegram Group](https://img.shields.io/badge/TELEGRAM-GROUP-blue?style=for-the-badge&logo=telegram)](https://t.me/TeamMars_11)
 
-## Connect Me ✨️
+## Connect Me 😴
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=telegram)](https://t.me/MasterX_0_Bot)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-NUMBER-yello?style=for-the-badge&logo=whatsapp)](https://wa.me/+15168644638)
