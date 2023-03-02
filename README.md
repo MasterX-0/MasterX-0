@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/Dilum125"><img src="https://graph.org/file/8e9bc6647a57eeb73a7db.jpg"></a><br>
 
-> Welcome to <a href="https://github.com/Dilum125">My</a> Github Profile.
+> Welcome to <a href="https://github.com/Dilum125">My</a> Github Profile...!!
 
 ## About Me ❤️
 
 <p align="center">
 
 Nᴀᴍᴇ : Dɪʟᴜᴍ 😷<br>
-Aɢᴇ : ..... 🌸<br>
+Aɢᴇ : <a href="https://github.com/Dilum125">.....</a> 🌸<br>
 NɪᴄNᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
 BɪʀTʜᴅᴀᴛᴇ : xxxx/01/09<br>
 Cᴏᴜɴᴛʀʏ : Sʀɪ Lᴀɴᴋᴀ 🇱🇰<br>
-HᴏᴍᴇTᴏᴡɴ : ... 👾🏕<br>
+HᴏᴍᴇTᴏᴡɴ : <a href="https://github.com/Dilum125">...</a> 👾🏕<br>
 Rᴇʟᴀᴛɪᴏɴsʜɪᴘ : With You 😁🌿<br>
 Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
