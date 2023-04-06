@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Dilum125"><img src="https://graph.org/file/8e9bc6647a57eeb73a7db.jpg"></a><br>
+<a href="https://github.com/MasterX-0"><img src="https://graph.org/file/8e9bc6647a57eeb73a7db.jpg"></a><br>
 
-> Welcome to <a href="https://github.com/Dilum125">My</a> Github Profile...!!
+> Welcome to <a href="https://github.com/MasterX-0">My</a> Github Profile...!!
 
 ## About Me ❤️
 
 <p align="center">
 
 Nᴀᴍᴇ : Dɪʟᴜᴍ 😷<br>
-Aɢᴇ : <a href="https://github.com/Dilum125">.....</a> 🌸<br>
+Aɢᴇ : <a href="https://github.com/MasterX-0">.....</a> 🌸<br>
 NɪᴄNᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
 BɪʀTʜᴅᴀᴛᴇ : xxxx/01/09<br>
 Cᴏᴜɴᴛʀʏ : Sʀɪ Lᴀɴᴋᴀ 🇱🇰<br>
-HᴏᴍᴇTᴏᴡɴ : <a href="https://github.com/Dilum125">...</a> 👾🏕<br>
+HᴏᴍᴇTᴏᴡɴ : <a href="https://github.com/MasterX-0">...</a> 👾🏕<br>
 Rᴇʟᴀᴛɪᴏɴsʜɪᴘ : With You 😁🌿<br>
 Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
@@ -42,21 +42,21 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilum125&layout=compact)](https://github.com/Dilum125)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterX-0&layout=compact)](https://github.com/MasterX-0)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilum125&theme=black-ice)](https://github.com/Dilum125)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MasterX-0&theme=black-ice)](https://github.com/MasterX-0)
 
 <!--
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dilum125&show_icons=true&theme=tokyonight" alt="MasterX's Github Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=MasterX-0&show_icons=true&theme=tokyonight" alt="MasterX's Github Stats"></img>
 
 -->
 
-![MasterX's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilum125&show_icons=true&theme=dark)
+![MasterX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterX-0&show_icons=true&theme=dark)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Dilum125&theme=darkhub)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=MasterX-0&theme=darkhub)
 
-![Metrics](https://metrics.lecoq.io/Dilum125?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/MasterX-0?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
 
 </p>
 
