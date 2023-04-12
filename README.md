@@ -223,11 +223,11 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
 
-## Support Me :
+## Support Me ☕
 
 <a href="https://www.buymeacoffee.com/MasterX0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee ☕💰" height="41" width="174"></a>
 
-## Connect Me :
+## Connect Me 💬
 
 <p align="left">
    <a href="https://t.me/MasterX_0_Bot"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" alt="Telegram"></a>
