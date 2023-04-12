@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-Nᴀᴍᴇ : Dɪʟᴜᴍ 😷<br>
+Nᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏 😷<br>
 Aɢᴇ : <a href="https://github.com/MasterX-0">.....</a> 🌸<br>
 NɪᴄNᴀᴍᴇ : Mᴀsᴛᴇʀ𝕏<br>
 BɪʀTʜᴅᴀᴛᴇ : xxxx/01/09<br>
