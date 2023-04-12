@@ -223,8 +223,19 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
 
-## Connect Me
+## Connect Me 💬
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=telegram)](https://t.me/MasterX_0_Bot)
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-NUMBER-yello?style=for-the-badge&logo=whatsapp)](https://wa.me/+15168644638)
-[![Gmail](https://img.shields.io/badge/GMAIL-ADDRESS-pink?style=for-the-badge&logo=gmail)](mailto:)
+<p align="left">
+   <a href="https://t.me/MasterX_0_Bot"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" alt="Telegram"></a>
+   <a href=""><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
+   <a href="https://wa.me/+15168644638"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Whatsapp"></a>
+   <a href="mailto:"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
+   <a href=""><img src="https://img.icons8.com/color/512/youtube-play.png" width="50" height="50" alt="YouTube"></a>
+   <a href="https://github.com/MasterX-0"><img src="https://img.icons8.com/glyph-neue/512/github.png" width="50" height="50" alt="GitHub"></a>
+</p>
+
+<!--
+[![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=telegram)]()
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-NUMBER-yello?style=for-the-badge&logo=whatsapp)]()
+[![Gmail](https://img.shields.io/badge/GMAIL-ADDRESS-pink?style=for-the-badge&logo=gmail)]()
+-->
