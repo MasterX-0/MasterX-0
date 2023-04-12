@@ -38,6 +38,11 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 - 💬 Ask me about anything... I'm happy to help... ❤️‍🩹
 - 📫 How to reach me: <a href="https://t.me/MasterX_0_Bot">CLICK HERE</a>
 
+## Support Me ☕
+
+<a href="https://www.buymeacoffee.com/MasterX0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee ☕💰" height="41" width="174"></a>
+
+
 ## Languages and Tools 💻
 
 <hr>
@@ -222,10 +227,6 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 ![Metrics](https://metrics.lecoq.io/MasterX-0?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
 
 </p>
-
-## Support Me ☕
-
-<a href="https://www.buymeacoffee.com/MasterX0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee ☕💰" height="41" width="174"></a>
 
 ## Connect Me 💬
 
