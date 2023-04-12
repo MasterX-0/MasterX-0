@@ -231,7 +231,6 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 <p align="left">
    <a href="https://t.me/MasterX_0_Bot"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" alt="Telegram"></a>
-   <a href=""><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
    <a href="https://wa.me/+15168644638"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Whatsapp"></a>
    <a href="mailto:"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
    <a href="https://youtube.com/@Mars11LK"><img src="https://img.icons8.com/color/512/youtube-play.png" width="50" height="50" alt="YouTube"></a>
