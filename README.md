@@ -197,11 +197,15 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 </p>
 <hr>
 
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterX-0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/MasterX-0)
+
+</p>
+
 ## My Github Stats 📊
 
 <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterX-0&layout=compact)](https://github.com/MasterX-0)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MasterX-0&theme=black-ice)](https://github.com/MasterX-0)
 
@@ -211,7 +215,7 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 -->
 
-![MasterX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterX-0&show_icons=true&theme=tokyonight)
+![MasterX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterX-0&show_icons=true&theme=dark)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=MasterX-0&theme=darkhub)
 
@@ -219,13 +223,7 @@ Tʜᴇ Hᴏᴘᴇ : ɪᴅᴋ 🤷‍♂<br>
 
 </p>
 
-
-## 🌿 Join with Us 
-
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/team_mars_11)
-[![Telegram Group](https://img.shields.io/badge/TELEGRAM-GROUP-blue?style=for-the-badge&logo=telegram)](https://t.me/TeamMars_11)
-
-## Connect Me 😴
+## Connect Me
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=telegram)](https://t.me/MasterX_0_Bot)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-NUMBER-yello?style=for-the-badge&logo=whatsapp)](https://wa.me/+15168644638)
